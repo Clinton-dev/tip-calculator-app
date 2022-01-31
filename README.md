@@ -40,52 +40,23 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- js
-- [Bootstrap](https://reactjs.org/) - JS library
+- Js
+- [Bootstrap](https://getbootstrap.com/docs/5.1)
 
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-mobile-first workflow
+-mobile-first workflow
+- hover states for all interactive elements on the page
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- (https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent) - textContent is more prefered to innerText when trying to interact with elements in the DOM. Its less computationally expenseive compared to its counterpart.
+- (https://stackoverflow.com/questions/11563638/how-do-i-get-the-value-of-text-input-field-using-javascript) - This is an amazing answer from StackOverflow which helped me understand why I was getting an undefined value. 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Clinton-dev](https://www.frontendmentor.io/profile/Clinton-dev)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
